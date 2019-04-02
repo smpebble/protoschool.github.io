@@ -164,6 +164,17 @@
        "repo":"http://github.com/protoschool/porto"
     },
     {
+       "name":"ProtoSchool Taipei",
+       "city":"Taipei",
+       "country":"TW",
+       "region":"Asia",
+       "organizers":[
+          "smpebble",
+          "ccomeon"
+       ],
+       "repo":"http://github.com/protoschool/taipei"
+     },
+        {
        "name":"ProtoSchool Lisbon",
        "city":"Lisbon",
        "country":"PT",
